@@ -1,1 +1,3 @@
-# Write your code here.
+def line
+    puts "the line is empty"
+end
